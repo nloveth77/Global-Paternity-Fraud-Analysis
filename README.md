@@ -3,6 +3,8 @@
 
 
 Introduction
+
+
 The Global Paternity Fraud Analysis project was developed as part of the Simulations Capstone Programme at Vephla University. The primary objective was to conduct a comprehensive global analysis of paternity fraud by examining its legal definitions, prevalence, psychological implications, economic consequences, and DNA testing accessibility across different countries and regions. The project utilized data analytics techniques to identify patterns, trends, and disparities in how paternity fraud is recognized and managed worldwide.
 
 Through structured datasets, analytical tools, and interactive dashboards built in Microsoft Power BI, the study generated evidence-based insights to support discussions around legal protections, family welfare, and policy development.
