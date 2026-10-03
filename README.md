@@ -27,6 +27,8 @@ The project addressed several critical questions:
 
 
 
+
+
 Objectives
 
 ● Conduct a comprehensive global analysis of paternity fraud; its definitions, frequency, and legal treatment across countries
